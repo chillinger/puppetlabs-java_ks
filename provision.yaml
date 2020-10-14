@@ -106,7 +106,7 @@ release_checks_7:
   - sles-15-x86_64
   - debian-9-x86_64
   - debian-10-x86_64
-  - ubuntu-18.04-x86_64
-  - ubuntu-20.04-x86_64
+  - ubuntu-1804-x86_64
+  - ubuntu-2004-x86_64
   - win-2012r2-x86_64
   - win-10-x86_64
